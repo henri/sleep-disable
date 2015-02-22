@@ -1,0 +1,8 @@
+#!/bin/bash
+# About : This script disables sleep on the system
+PMSET="/usr/bin/pmset"
+"${PMSET}" sleep 0
+if [ $? != 0 ] ; then
+	exit -1
+fi
+exit 0
