@@ -3,7 +3,7 @@
 About
 --------
 
-This is an open source (Apache 2.0) script and package build system which is designed to turn off wi-fi on a Mac OS X system(s).
+This is an open source (Apache 2.0) script and package build system which is designed to disable system sleep on Mac OS X system(s).
 
 License: [Apache 2.0 License][1]
 
